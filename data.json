@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sample1",
+    "type": "آپارتمان",
+    "status": "فروش",
+    "city": "تهران",
+    "district": "سعادت‌آباد",
+    "address": "بلوار دریا، خیابان بهرام، پلاک 12",
+    "area": 120,
+    "rooms": 2,
+    "floor": "5",
+    "year": 1398,
+    "priceSale": "8500000000",
+    "owner": "علی محمدی",
+    "phone": "09121234567",
+    "notes": "سازنده خوب، تراس مشرف به پارک",
+    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/amlaak-defaults/main/images/apt1.jpg"
+  }
+]
