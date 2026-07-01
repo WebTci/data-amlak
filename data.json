@@ -1,10 +1,10 @@
 [
   {
-    "type": "ویلا",
+    "type": "زمین",
     "status": "رهن",
     "city": "اصفهان",
-    "district": "نجف آباد",
-    "address": "امام",
+    "district": "",
+    "address": "تهران",
     "area": 100,
     "rooms": null,
     "floor": "",
@@ -15,8 +15,8 @@
     "owner": "",
     "phone": "",
     "notes": "",
-    "id": "mr2a1vvtnpgqyn",
-    "createdAt": "2026-07-01T16:15:49.673Z"
+    "id": "mr2a4ken083z5x",
+    "createdAt": "2026-07-01T16:17:54.767Z"
   },
   {
     "id": "sample1",
