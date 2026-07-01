@@ -1,5 +1,24 @@
 [
   {
+    "type": "ویلا",
+    "status": "فروش",
+    "city": "علی اباد",
+    "district": "",
+    "address": "تهران",
+    "area": 100,
+    "rooms": null,
+    "floor": "",
+    "year": null,
+    "priceSale": null,
+    "priceRent": null,
+    "priceMortgage": null,
+    "owner": "",
+    "phone": "",
+    "notes": "",
+    "id": "mr2apyutv02xvb",
+    "createdAt": "2026-07-01T16:34:33.269Z"
+  },
+  {
     "type": "زمین",
     "status": "رهن",
     "city": "اصفهان",
