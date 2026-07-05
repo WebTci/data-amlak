@@ -15,24 +15,5 @@
     "totalFloors": 2,
     "id": "mr63xk4s2pqf60",
     "createdAt": "2026-07-04T08:35:34.828Z"
-  },
-  {
-    "id": "sample1",
-    "type": "آپارتمان",
-    "status": "فروش",
-    "city": "نجف آباد",
-    "district": "سعادت‌آباد",
-    "address": "بلوار دریا، خیابان بهرام، پلاک 12",
-    "area": 120,
-    "rooms": 2,
-    "floor": "5",
-    "year": "1398",
-    "priceSale": "8500000000",
-    "owner": "علی محمدی",
-    "phone": "09121234567",
-    "notes": "سازنده خوب، تراس مشرف به پارک تست",
-    "image_url": "https://raw.githubusercontent.com/YOUR_USERNAME/amlaak-defaults/main/images/apt1.jpg",
-    "price": "1",
-    "updatedAt": "2026-07-02T07:39:37.013Z"
   }
 ]
