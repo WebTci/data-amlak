@@ -72,7 +72,8 @@
     "landArea": "10",
     "updatedAt": "2026-07-15T08:38:54.540Z",
     "createdAt": "2026-07-15T08:38:54.541Z",
-    "id": "prop_mrltw7kdn84dy"
+    "id": "prop_mrltw7kdn84dy",
+    "isDeleted": true
   },
   {
     "code": 6,
